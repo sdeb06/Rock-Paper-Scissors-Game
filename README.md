@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-Game
-A simple yet our favourite childhood game written in C lamguage with dynamic memory allocation.
+A simple yet our favourite childhood game written in C language with dynamic memory allocation.
